@@ -23,3 +23,7 @@ Alte exemple, precum si documentatia puteti sa o gasiti aici: https://www.tensor
 > [!TIP]
 > Pentru o varietate de dataseturi diferite puteti accesa Kaggle: https://www.kaggle.com/datasets
 
+
+> [!TIP]
+> Pentru exemple de cod recomand _Machine Learning with Python Cookbook_ (2023) de Kyle Gallatin si Chris Albon - https://www.oreilly.com/library/view/machine-learning-with/9781098135713/
+
