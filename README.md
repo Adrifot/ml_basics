@@ -1,7 +1,7 @@
 # Machine Learning Fundamentals
 
 ## Resources
-Here you can find model examples and exercises from different sources with documentation created by me. Most of the files in the repo will be in `.ipynb` format.
+Here you can find model examples and exercises from different sources with added documentation. Most of the files in the repo will be in `.ipynb` format.
 
 ### Getting started
 1. You will need Anaconda
