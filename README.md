@@ -36,7 +36,7 @@ For additional examples, here are some good books on Machine Learning:
 >[!TIP]
 > For a variety of different datasets, you can visit [Kaggle](https://www.kaggle.com/datasets).
 
-### Credits
+## Credits
 This repository includes code from the following sources:
 - [TensorFlow official tutorials](https://www.tensorflow.org/tutorials)
 - _Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow_ by Aurélien Géron
