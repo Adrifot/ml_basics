@@ -1,29 +1,48 @@
-# Machine Learning Basics
-## Materiale
-Aici o sa gasiti exemple de modele si exercitii cu documentatia facuta de mine. Majoritatea fisierelor vor fi in format .ipynb (Jupyter Notebook).
+# Machine Learning Fundamentals
+
+## Resources
+Here you can find model examples and exercises from different sources with documentation created by me. Most of the files in the repo will be in `.ipynb` format.
+
 ### Getting started
-1. O sa aveti nevoie de Anaconda:
-    - https://conda.io/projects/conda/en/latest/user-guide/install/index.html - aici gasiti ghidul de instalare
-    - https://conda.io/projects/conda/en/latest/user-guide/getting-started.html - aici gasiti niste comenzi de baza
-    - https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html - aici sunt comenzile necesare pentru a lucra cu environmenturi
+1. You will need Anaconda
+    - [Installation Guide](https://conda.io/projects/conda/en/latest/user-guide/install/index.html)
+    - [Basic Commands](https://conda.io/projects/conda/en/latest/user-guide/getting-started.html)
+    - [Managing Evironments](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html)
 
-> [!TIP]
-> Daca aveti probleme cu conda, puteti lucra si cu pip, dar e mai usor sa manageruiti totul daca aveti acces la environmenturi.
+>[!TIP]
+> If you encounter any issues with conda, you can also use pip.
 
-2. Va trebui sa instalati si activati environmenturile salvate in .yml-uri:
-    - mldemo.yml contine environmentul cu pachetele necesare pentru exemplele si exercitiile de pe repo-ul asta. O sa fie updatat din cand in cand, in functie de nevoi.
-    - ML.yml este environmentul care contine **toate** pachetele cu care vom lucra in perioada asta. O sa il folosim pentru probleme mai specifice/complexe.
+2. You will need to install and activate the environments saved in the `.yml` files:
+    - `myenv.yml` contains the environment with the necessary packages for the examples and exercises in this repo. It will be updated from time to time as needed.
+    - `ML.yml` is the environment that contains **all** the packages we will be working with (probably). We will be using it for more specific or complex problems.
 
-3. O sa aveti nevoie de extensia de Jupyter Notebook - https://code.visualstudio.com/docs/datascience/jupyter-notebooks
+3. You may need the Jupyter Notebook extension for Visual Studio Code:
+     - https://code.visualstudio.com/docs/datascience/jupyter-notebooks
 
-### Exemple si exercitii
-Fiecare .ipynb va contine un exemplu de pe TensorFlow (sau alte surse) sau un exercitiu (al carui scop va fi descris la inceput). Recomand sa luati codul snippet-cu-snippet, incat sa intelegeti mai bine functionarea. 
-Alte exemple, precum si documentatia puteti sa o gasiti aici: https://www.tensorflow.org/tutorials si aici: https://scikit-learn.org/stable
+### Recommended Books and Resources
+For additional examples, here are some good books on Machine Learning:
 
-> [!TIP]
-> Pentru o varietate de dataseturi diferite puteti accesa Kaggle: https://www.kaggle.com/datasets
+- **Books:**
+    - _Machine Learning with Python Cookbook_ (2023) by Kyle Gallatin and Chris Albon - [O'Reilly Library](https://www.oreilly.com/library/view/machine-learning-with/9781098135713/)
+    - _Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow_ by Aurélien Géron - [O'Reilly Library](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
+    - _Deep Learning with Python_ by François Chollet - [Manning Publications](https://www.manning.com/books/deep-learning-with-python)
+    - _AI and Machine Learning for Coders_ by Laurence Moroney - [O'Reilly Library](https://www.oreilly.com/library/view/ai-and-machine/9781492078180/)
 
+- **Online Resources:**
+    - [TensorFlow Tutorials](https://www.tensorflow.org/tutorials)
+    - [Scikit-Learn Documentation](https://scikit-learn.org/stable)
+    - [3Blue1Brown's YouTube course on Neural Networks](https://youtu.be/aircAruvnKk?si=KxRL0zcjHgb4QB8L)
 
-> [!TIP]
-> Pentru exemple de cod recomand _Machine Learning with Python Cookbook_ (2023) de Kyle Gallatin si Chris Albon - https://www.oreilly.com/library/view/machine-learning-with/9781098135713/
+>[!TIP]
+> For a variety of different datasets, you can visit [Kaggle](https://www.kaggle.com/datasets).
 
+### Credits
+This repository includes code from the following sources:
+- [TensorFlow official tutorials](https://www.tensorflow.org/tutorials)
+- _Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow_ by Aurélien Géron
+
+## Contributions
+This repo is a collaborative effort by the following team members:
+- [Adrian F.](https://github.com/Adrifot)
+- [Cosmin C.](https://github.com/cosmincalinov)
+- [Stefan D.](https://github.com/stefan-dnc)
