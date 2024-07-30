@@ -32,6 +32,7 @@ For additional examples, here are some good books on Machine Learning:
     - [TensorFlow Tutorials](https://www.tensorflow.org/tutorials)
     - [Scikit-Learn Documentation](https://scikit-learn.org/stable)
     - [3Blue1Brown's YouTube course on Neural Networks](https://youtu.be/aircAruvnKk?si=KxRL0zcjHgb4QB8L)
+    - [deeplizard's YouTube channel](https://www.youtube.com/@deeplizard/featured)
 
 >[!TIP]
 > For a variety of different datasets, you can visit [Kaggle](https://www.kaggle.com/datasets).
