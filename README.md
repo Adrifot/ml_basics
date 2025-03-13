@@ -23,9 +23,9 @@ Here you can find model examples and exercises from different sources with added
 For additional examples, here are some good books on Machine Learning:
 
 - **Books:**
+    - _Mathematics for Machine Learning_ by Marc Peter Deisenroth, Aldo Faisal and Cheng Soon Ong - https://mml-book.github.io/book/mml-book.pdf
     - _Machine Learning with Python Cookbook_ (2023) by Kyle Gallatin and Chris Albon - [O'Reilly Library](https://www.oreilly.com/library/view/machine-learning-with/9781098135713/)
     - _Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow_ by Aurélien Géron - [O'Reilly Library](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
-    - _Deep Learning with Python_ by François Chollet - [Manning Publications](https://www.manning.com/books/deep-learning-with-python)
     - _AI and Machine Learning for Coders_ by Laurence Moroney - [O'Reilly Library](https://www.oreilly.com/library/view/ai-and-machine/9781492078180/)
 
 - **Online Resources:**
